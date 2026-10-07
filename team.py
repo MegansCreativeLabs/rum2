@@ -1,4 +1,4 @@
-team_members = ["Srilatha", "Sabirne", "Fedrik"]
+team_members = ["Srilatha", "Sabirne", "Fredrik"]
 
 print("Team members:")
 for member in team_members:

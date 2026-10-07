@@ -1,3 +1,6 @@
 print("hello world")
 print("Fredrik kommenterar")
 print("Srilatha kommenterar")
+print("hello world hello hello")
+print("jag ändrar")
+print("Fredrik kommenterar")

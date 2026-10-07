@@ -1,1 +1,1 @@
-print ("Hej! Hej")
+print ("Hej då !")
